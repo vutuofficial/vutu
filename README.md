@@ -1,4 +1,4 @@
-### <div align="center">Hi I'm vutu, I just write code. 🃏</div>  
+### <div align="center">Hi I'm vutu, I just write code. 🎴</div>  
   
 
 👾 My Projects  
