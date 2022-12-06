@@ -4,7 +4,7 @@
 👾 My Projects  
   
 
-- **[cryptocurrencybots](https://github.com/vutuofficial/cryptocurrency)**<BR><H5>You can see cryptocurrencies and 24-hour volume instantly on discord.  
+- **[cryptocurrency](https://github.com/vutuofficial/cryptocurrency)**<BR><H5>You can see cryptocurrencies and 24-hour volume instantly on discord.  
   
 
 - **[V2OS](https://github.com/vutuofficial/V2OS)**<BR><H5> I keep your computer running at peak performance without overclocking.  
