@@ -13,14 +13,7 @@
 - **[twitch-valorant-rank](https://github.com/vutuofficial/twitch-valorant-rank)**<BR><H5>You can instantly show your rank to your viewers by using the !rank command in your Twitch channel's chat.  
   
 
-<br/>  
-
-## <div align="center">Spotify Listening</div>  
-  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=mykvoj4kfthk974jn5tnntws2&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=166714&bar_color_cover=true" /></div>  
-
-<br/>  
+<br/>
 
 ## <div align="center">Social</div>  
   
